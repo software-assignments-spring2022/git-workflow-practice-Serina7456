@@ -1,2 +1,5 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+## Article: https://slate.com/technology/2013/09/software-engineers-need-a-crash-course-in-ethics.html
+
+I think the developers' responsibility for ethical choices mentioned in this article is interesting and worth considering. When we talk about software development, what is more focused on seems to be the technology. This article reminds programmers that ethical factors should also be considered during their work process. As the Internet develops fast in modern era, online privacy becomes an issue that people are concerned about. In the article it is pointed out that it’s hard for people to discuss privacy and the Internet when they don’t really know what’s being collected, or how. This lack of information can only bring people worries on privacy disclosure problem. Therefore, besides programmers' consideration on ethtics, the communication between developers and clients matters as well. This is totally what the role of the product owner is in charge of.
